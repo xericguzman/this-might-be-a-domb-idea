@@ -21,4 +21,4 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 
 ### Guidelines
 
-Every change should be done via JavaScript.
+Every change should be done via JavaScript unless otherwise stated.
