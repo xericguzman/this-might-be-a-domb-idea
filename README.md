@@ -1,6 +1,8 @@
 # This Might Be A DOMb Idea
 
-Your task (whether you choose to accept it or not?) is to manipulate the DOM in the following ways:
+Your task (whether you choose to accept it or not?) is to manipulate the DOM in the following ways.
+
+**Every bullet should be done using Javascript unless stated otherwise.**
 
 * Change the font color of the paragraph to light blue.
 * Change the font size of the heading to 48px.
@@ -13,12 +15,9 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 > I say, "Hi!"
 * Change the image below the list to be [this image](http://www.tioxic.com/wp-content/uploads/trex_4.jpg).
 * Change that image's size to be 300 pixels high.
-* Add a new image of your choice below or to the right of the other image, using HTML, and then, with JavaScript, make it 300 pixels high.
-* Add a 16th `<li>` to the list. You can use the html file to write in the `li`, and then, with JavaScript, give it the same class as the others and an id that follows the others' numbering scheme.
+* Using HTML, add a new image of your choice below or to the right of the other image
+* Now make that image 300 pixels high (with JS)
+* Using HTML, add a 16th `<li>` to the list.
+* Now, (with JS) give it the same class as the others and an id that follows the others' numbering scheme.
 * Give that `<li>` the following text:
 > Won't get fooled again.
-
-
-### Guidelines
-
-Every change should be done via JavaScript unless otherwise stated.
