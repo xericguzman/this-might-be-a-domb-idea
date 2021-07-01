@@ -2,7 +2,9 @@
 
 Your task (whether you choose to accept it or not?) is to manipulate the DOM in the following ways.
 
-**Every bullet should be done using Javascript unless stated otherwise.**
+### **Everything should be done using Javascript unless stated otherwise.**
+
+## Tasks
 
 * Change the font color of the paragraph to light blue.
 * Change the font size of the heading to 48px.
