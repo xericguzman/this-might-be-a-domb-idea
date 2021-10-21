@@ -19,7 +19,7 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 * Change that image's size to be 300 pixels high.
 * Using HTML, add a new image of your choice below or to the right of the other image
 * Now make that image 300 pixels high (with JS)
-* Using HTML, add a 16th <li> to the list. Once again with HTML, give it an ID that follows the others' numbering scheme.
+* Using HTML, add a 16th `<li>` to the list. Once again with HTML, give it an ID that follows the others' numbering scheme.
 * Now, (with JS) give it the same class as the others.
 * Give that `<li>` the following text:
 > Won't get fooled again.
